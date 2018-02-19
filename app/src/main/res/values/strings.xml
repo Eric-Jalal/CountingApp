@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CountingApp</string>
+    <string name="counterTextViewDefa">0</string>
 </resources>
